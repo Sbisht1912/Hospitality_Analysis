@@ -23,3 +23,10 @@ Live Dashboard:-https://www.novypro.com/project/hopitality-
 
 LinkedIn:-https://www.linkedin.com/posts/sbisht12_hopitality-activity-7093571295669288961-yuab?utm_source=share&utm_medium=member_desktop
 
+![image](https://github.com/Sbisht1912/Hospitality_Analysis/assets/139325522/b8138640-c108-47dd-ab7f-8a62da6168b0)
+
+
+![image](https://github.com/Sbisht1912/Hospitality_Analysis/assets/139325522/393eb661-d7c0-4136-9db7-1f971914b324)
+
+
+
