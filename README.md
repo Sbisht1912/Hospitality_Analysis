@@ -18,3 +18,7 @@ AtliQ Grands does not have an in-house data analytics team. Therefore, they plan
 ✅ Focus on improving average ratings to drive higher occupancy rates,leveraging insights by analyzing top-rated properties within the same category across cities.
 ✅ Can Implement Dynamic Pricing : by charging higher rates during peak demand periods and offering discounts during low-demand periods.
 ✅ To increase booking from direct platforms can offer exclusive packages that are only available through direct booking channels.
+
+Live Dashboard:-https://www.novypro.com/project/hopitality-
+LinkedIn:-https://www.linkedin.com/posts/sbisht12_hopitality-activity-7093571295669288961-yuab?utm_source=share&utm_medium=member_desktop
+
